@@ -9,12 +9,12 @@ import * as z from 'zod'
 import GoogleSignInButton from '../GoogleSignInButton'
 import { Button } from '../ui/button'
 import {
-    Form,
-    FormControl,
-    FormField,
-    FormItem,
-    FormLabel,
-    FormMessage,
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
 } from '../ui/form'
 import { Input } from '../ui/input'
 import { toast } from '../ui/use-toast'
